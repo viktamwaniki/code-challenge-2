@@ -9,14 +9,14 @@ html, body {
 
 .logo{
   text-align: center;
-  background-color: rgb(49, 109, 179);
-  color: white;
+  background-color: purple;
+  color: rgb(7, 252, 19);
   padding: 0.5em;
 }
 
 #character-bar {
   height: 15vh;
-  background: rgb(49, 109, 179);
+  background: purple;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -32,7 +32,7 @@ html, body {
   font-size: 3vh;
   align-items: center;
   border-radius: 2em;
-  border: 1px solid white;
+  border: 1px solid rgb(0, 238, 255);
 }
 
 .characterInfo{
@@ -44,7 +44,7 @@ html, body {
 }
 
 input[type="submit"], button {
-  background-color: rgb(49, 109, 179);
+  background-color: rgb(112, 179, 49);
   color: white;
   font-size: 18px;
   border-radius: 6px;
